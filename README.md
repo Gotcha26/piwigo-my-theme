@@ -1,5 +1,5 @@
 # piwigo-my-theme
-Compilation d'actions pour la galerie publique
+Compilation d'actions pour ma galerie publique.
 
 # En vrac
 
@@ -32,8 +32,8 @@ Format : sous forme de patch. J'utilise Notepad++ avec le plugin "ComparePlus" a
 
 * Fichier ***bootstrap_darkroom_child/template/picture_info_cards.tpl***
 ```
---- Base.tpl
-+++ Candidtat.tpl
+--- picture_info_cards.tpl
++++ picture_info_cards.tpl
 @@ -1,78 +1,89 @@
 -   <!-- comments -->
 +<!-- comments -->
