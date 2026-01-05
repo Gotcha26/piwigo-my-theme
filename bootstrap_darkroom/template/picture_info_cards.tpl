@@ -275,7 +275,7 @@ $('#show_exif_data').on('click', function() {
         </div>
       </div>
 {/if}
-      <div id="card-comments" class="ml-2">
+      <div id="card-comments" class="card ml-2">
         {include file='picture_info_comments.tpl'}
       </div>
     </div>
