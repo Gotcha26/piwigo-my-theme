@@ -1,0 +1,14 @@
+div#card-comments.card.ml-2 {
+  margin-left: 0px !important;
+}
+
+.form-control {background-color: black;}
+aria-controles.addcomment {
+  font-size: 1.5rem; font-weight: 300;
+}
+
+ #show_exif_data:hover{
+  color: #fff;
+  background-color: #323232;
+  border-color: #1d1d1d;
+}
