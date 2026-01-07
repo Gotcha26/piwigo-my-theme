@@ -1,5 +1,7 @@
 # Babar
 
+* Téléchargement : [PEM](https://fr.piwigo.org/ext/index.php?eid=1040)
+
 Sous le nom assez curiez, se cache une fonction bien pratique et originale qui permet de définir une bannière pour l'album centrée sur un point précis.  
 La bannière est ainsi très étroite et vient se positionner dans l'entête de la page mais ça donne un coté personnalisation qui vient rompre l'aspect solennel et dépouillé de ma galerie.
 
@@ -20,7 +22,9 @@ Rien ! Nada.
 ## Hacks
 
 Le fonctionnement de base n'était pas optimal alors j'ai bricolé le code.  
-Les hacks sont basés sur la version **1.8**.
+
+> [!NOTE]
+> Les hacks sont basés sur la version **1.8**.
 
 Source : [Claude.ia](https://claude.ai/chat/9646138a-81a5-4fa3-8451-072aa19a16ef)
 
