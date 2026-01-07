@@ -8,6 +8,15 @@ La bannière est ainsi très étroite et vient se positionner dans l'entête de 
 Rien ! Nada.
 <img width="1195" height="859" alt="Screenshot 2026-01-07 at 15-57-15 Julien Moreau gallery&#39;s Administration de Piwigo" src="https://github.com/user-attachments/assets/699e6137-aa3e-43b7-b47a-fcb497ee66ff" />
 
+## Utilisation
+
+* Se rendre sur la page d'administration de l'album.
+* Onglet : "Babar"
+* Faire correspondre le cadre de séléction avec l'élement à centrer sur votre bannière.
+<img width="1513" height="1711" alt="Screenshot 2026-01-07 at 16-29-57 Julien Moreau gallery&#39;s Administration de Piwigo" src="https://github.com/user-attachments/assets/60b07250-af9d-4a49-b807-cd392bc150b2" />
+
+
+
 ## Hacks
 
 Le fonctionnement de base n'était pas optimal alors j'ai bricolé le code.  
